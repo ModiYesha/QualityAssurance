@@ -42,5 +42,6 @@
 	<classpathentry kind="lib" path="C:/Users/yesha/Downloads/Day02/Day02/selenium-2.40.0/libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="/RazorFish/lib/selenium-server-standalone-3.3.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
